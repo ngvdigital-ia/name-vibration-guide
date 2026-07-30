@@ -1,0 +1,8 @@
+/* Measured reconstruction for the selection screens at desktop; mobile keeps the source-like two-column rhythm. */
+@media(min-width:700px){
+  .question-stage .clone-body{width:699px;padding:40px 0 0;margin:327.3125px auto 0}
+  .question-stage .clone-body h1{margin:0 0 30px;font-size:18px;line-height:1.4}
+  .question-stage .clone-choices.grid{display:flex;flex-wrap:wrap;justify-content:center;width:699px;gap:12px;margin:0 0 20px}
+  .question-stage .clone-choices.grid button{width:140px;min-height:53.390625px;padding:12px 16px;font-size:17.6px}
+  .question-stage .clone-back{height:38px;padding:7px 14px}
+}
