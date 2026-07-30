@@ -4,3 +4,5 @@ output/
 .shots/
 _shots/
 .vercel/
+
+.vercel
