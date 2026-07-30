@@ -1,4 +1,6 @@
 _reference/
 .playwright-cli/
 output/
+.shots/
+_shots/
 .vercel/
